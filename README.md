@@ -1,4 +1,4 @@
-# 💻 SmartPrix Laptop Dataset Cleaning and Analysis with PostgreSQL
+# SmartPrix Laptop Dataset Cleaning and Analysis with PostgreSQL
 
 ## 📚 Project Overview
 
