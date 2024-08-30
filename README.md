@@ -1,4 +1,4 @@
-# SmartPrix Laptop Dataset Cleaning and Analysis with PostgreSQL
+# 💻 SmartPrix Laptop Dataset Cleaning and Analysis with PostgreSQL
 
 ## 📚 Project Overview
 
@@ -48,7 +48,7 @@ The SmartPrix Laptop Unclean Dataset includes 1020 rows and 27 columns. The colu
 The dataset is raw and unclean, requiring extensive data cleaning to address both structural and qualitative issues before it can be used for any meaningful analysis or predictions.
 
 
-## ![image](https://github.com/user-attachments/assets/7a226e98-1853-4521-b68b-29bba968b5a1) Data Cleaning
+## 🧼 Data Cleaning
 
 The data cleaning process involves:
 
