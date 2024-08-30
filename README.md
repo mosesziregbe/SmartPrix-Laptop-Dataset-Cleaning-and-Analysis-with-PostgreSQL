@@ -2,16 +2,23 @@
 
 ## 📚 Project Overview
 
-This project involves cleaning, transforming and analyzing the SmartPrix Laptop Dataset to uncover key insights related to pricing, performance, market trends, and user experiences using PostgreSQL. The dataset was scraped directly from the SmartPrix website in India in March 2024 and contains 1020 rows and 27 columns, detailing various features of laptops available in the Indian market.
+This project involves cleaning, transforming and analyzing the SmartPrix Laptop Dataset to uncover key insights related to pricing, performance, market trends, and user experiences using PostgreSQL. 
 
-Using PostgreSQL, the dataset was cleaned to remove duplicates, standardize data formats, and ensure consistency for meaningful analysis. SQL was utilized for both the data cleaning and analysis processes, with each step documented in separate SQL files for better organization and clarity. Additionally, two Jupyter notebooks provide a comprehensive walkthrough of the analysis, with SQL queries connected directly to a PostgreSQL database for interactive exploration of results.
+The dataset was scraped directly from the SmartPrix website in India in March 2024 and contains 1020 rows and 27 columns, detailing various features of laptops available in the Indian market.
+
+Using PostgreSQL, the dataset was cleaned to remove duplicates, standardize data formats, and ensure consistency for meaningful analysis. SQL was utilized for both the data cleaning and analysis processes, with each step documented in separate SQL files for better organization and clarity. 
+
+Additionally, two Jupyter notebooks provide a comprehensive walkthrough of the analysis, with SQL queries connected directly to a PostgreSQL database for interactive exploration of results.
 
 
 ## 🛠️ Tools Used
 
 - **PostgreSQL**: The primary database management system used for data cleaning, transformation, and analysis.
+
 - **SQL**: For writing queries to clean and manipulate the data.
+
 - **pgAdmin**: To manage and query the PostgreSQL database.
+
 - **Jupyter Notebook**: For documenting SQL queries and running analyses.
 
 
