@@ -24,7 +24,7 @@ Additionally, two Jupyter notebooks provide a comprehensive walkthrough of the a
 
 ## 📊 Dataset Description
 
-The SmartPrix Laptop Unclean Dataset includes 1020 rows and 27 columns. The columns represent various features of laptops, such as:
+The SmartPrix Laptop Dataset includes 1020 rows and 27 columns. The columns represent various features of laptops, such as:
 
 - `name`: Name of the model
 - `price`: Price of the laptop
