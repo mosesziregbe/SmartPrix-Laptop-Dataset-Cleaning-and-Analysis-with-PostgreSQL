@@ -82,7 +82,7 @@ The data cleaning process involves:
 &nbsp;&nbsp;  
 &nbsp;&nbsp;├─ 📁 notebooks/  
 &nbsp;&nbsp;├── Market_and_Value_Analysis.ipynb  
-&nbsp;&nbsp;└── Technical_Specifications_and_User_Experience.ipynb  
+&nbsp;&nbsp;└── Technical_Specifications_and_User_Experience_Analysis.ipynb  
 &nbsp;&nbsp;└── README.md  
 
 
