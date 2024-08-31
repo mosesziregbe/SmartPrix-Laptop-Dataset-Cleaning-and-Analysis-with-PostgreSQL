@@ -88,7 +88,18 @@ SmartPrix-Laptop-Analysis/
 └── README.md
 
 --
-
+SmartPrix-Laptop-Analysis/
+│
+├─ 📁 sql/
+│   ├── data_cleaning.sql
+│   ├── market_value_analysis.sql
+│   └── tech_specs_user_experience.sql
+│
+├─ 📁 notebooks/
+│   ├── Market_and_Value_Analysis.ipynb
+│   └── Technical_Specifications_and_User_Experience.ipynb
+│
+└── README.md
 
 
 
