@@ -8,7 +8,7 @@ The dataset was scraped directly from the SmartPrix website in India in March 20
 
 Using PostgreSQL, the dataset was cleaned to remove duplicates, standardize data formats, and ensure consistency for meaningful analysis. SQL was utilized for both the data cleaning and analysis processes, with each step documented in separate SQL files for better organization and clarity. 
 
-Additionally, two Jupyter notebooks provide a comprehensive walkthrough of the analysis, with SQL queries connected directly to a PostgreSQL database for interactive exploration of results.
+Additionally, two Jupyter notebooks provide a comprehensive walkthrough of the analysis and summaries of the results, with SQL queries executed using Python and connected directly to a PostgreSQL database for interactive exploration.
 
 
 ## 🛠️ Tools Used
