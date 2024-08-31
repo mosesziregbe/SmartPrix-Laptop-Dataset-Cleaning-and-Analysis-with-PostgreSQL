@@ -1688,3 +1688,7 @@ CREATE INDEX idx_price ON laptops(price);
 
 SELECT * FROM laptops;
 
+
+
+
+--
