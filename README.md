@@ -74,15 +74,15 @@ The data cleaning process involves:
 
 ## 📁 Project Structure
 
-SmartPrix-Laptop-Analysis/  
+&nbsp;&nbsp;SmartPrix-Laptop-Analysis/  
 &nbsp;&nbsp;├─ 📁 sql/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── data_cleaning.sql  
-&nbsp;&nbsp;&nbsp;&nbsp;├── market_value_analysis.sql  
-&nbsp;&nbsp;&nbsp;&nbsp;└── tech_specs_user_experience.sql  
+&nbsp;&nbsp;├── data_cleaning.sql  
+&nbsp;&nbsp;├── market_value_analysis.sql  
+&nbsp;&nbsp;└── tech_specs_user_experience.sql  
 &nbsp;&nbsp;  
 &nbsp;&nbsp;├─ 📁 notebooks/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── Market_and_Value_Analysis.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;└── Technical_Specifications_and_User_Experience.ipynb  
+&nbsp;&nbsp;├── Market_and_Value_Analysis.ipynb  
+&nbsp;&nbsp;└── Technical_Specifications_and_User_Experience.ipynb  
 &nbsp;&nbsp;  
 &nbsp;&nbsp;└── README.md  
 
