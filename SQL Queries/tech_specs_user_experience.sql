@@ -118,24 +118,27 @@ ORDER BY laptop_count DESC;
 -- changed across different processor generations?
 
 
-
-WITH memory_cte AS (
-  SELECT 
-    processor_gen AS proc_gen,
-    CONCAT(
-      TRIM(REGEXP_SUBSTR(rom_memory, '([0-9]+\s?GB)')), ' + ',
-      TRIM(REGEXP_SUBSTR(internal_memory, '([0-9]+\s?(GB|TB)\s?SSD)'))
-    ) AS ram_storage_combo
-  FROM laptops
-  WHERE processor_gen LIKE '%_Gen%'
-),
-ranked_combos AS (
-  SELECT 
-    proc_gen, 
+WITH memory_cte AS 
+(
+SELECT processor_gen 
+    AS proc_gen, 
+    CONCAT(TRIM(REGEXP_SUBSTR(rom_memory, '([0-9]+\s?GB)')), 
+        ' + ',
+      TRIM(REGEXP_SUBSTR(internal_memory, '([0-9]+\s?(GB|TB)\s?SSD)'))) 
+	AS ram_storage_combo
+FROM laptops
+WHERE processor_gen LIKE '%_Gen%'
+    OR processor_gen LIKE 'M%'
+),ranked_combos AS 
+(
+SELECT proc_gen, 
     ram_storage_combo, 
     COUNT(*) AS laptop_count,
-    RANK() OVER (PARTITION BY proc_gen ORDER BY COUNT(*) DESC) AS rank_in_gen,
-    RANK() OVER (ORDER BY COUNT(*) DESC) AS overall_rank
+    RANK() OVER (PARTITION BY proc_gen 
+        ORDER BY COUNT(*) DESC) 
+    AS rank_in_gen,
+    RANK() OVER (ORDER BY COUNT(*) DESC) 
+    AS overall_rank
   FROM memory_cte
   GROUP BY proc_gen, ram_storage_combo
 )
@@ -146,8 +149,11 @@ SELECT
   rank_in_gen,
   overall_rank
 FROM ranked_combos
-WHERE rank_in_gen = 1 OR overall_rank <= 5
-ORDER BY REGEXP_SUBSTR(proc_gen, '[0-9]+')::INTEGER, laptop_count DESC;
+WHERE rank_in_gen = 1 
+    OR overall_rank <= 5
+ORDER BY REGEXP_SUBSTR(proc_gen, 'M'),
+REGEXP_SUBSTR(proc_gen, '[0-9]+')::INTEGER, 
+laptop_count DESC;
 
 
 
