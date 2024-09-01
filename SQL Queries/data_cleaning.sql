@@ -314,6 +314,20 @@ SELECT DISTINCT os FROM laptops;
 SELECT INITCAP(os) FROM laptops;
 
 
+-- update utility column samsung galaxy book 4 ultra laptop
+
+SELECT * FROM laptops
+WHERE os LIKE 'Utility%';
+
+UPDATE laptops
+SET utility = os
+WHERE os LIKE 'Utility%';
+
+UPDATE laptops
+SET os = NULL
+WHERE os LIKE 'Utility%';
+
+
 
 -- Ensure to capitalize each first letter and trim the os column	
 
