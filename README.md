@@ -52,6 +52,7 @@ The SmartPrix Laptop Dataset includes 1020 rows and 27 columns. The columns repr
 - `usb_ports`: Types of USB ports available
 - `hardware_features`: Additional hardware features
 
+### Raw Dataset Image
 ![Raw Dataset Image](
 https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/dataset%20images/raw_smartprix_data.jpg)
 
@@ -74,6 +75,11 @@ The data cleaning process involves:
 
 6. **Validation**: Checking for and correcting any remaining anomalies to ensure the dataset is clean and ready for analysis.
 
+### Cleaned Dataset Images
+#### pgadmin
+![pgadmin laptops dataset image](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/dataset%20images/pgadmin_laptops_cleaned.jpg)
+#### Excel
+![Excel laptops dataset image](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/dataset%20images/excel_laptops_cleaned.jpg)
 
 ## 📁 Project Structure
 
