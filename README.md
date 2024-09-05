@@ -175,13 +175,18 @@ Touch Screens in High-End Laptops: The increased prevalence of touch screens in 
 
 Fingerprint Sensors in Mid-Range Laptops: The higher adoption of fingerprint sensors in mid-range laptops suggests that security features are becoming more mainstream, though still premium in lower segments.
 
-### *Other Market and Consumer Behavior Insights:*
+#### *Other notable market and consumer behavior insights:*
 
 - The slight negative correlation between user ratings and votes might suggest that popular models attract more critical reviews.
+
 - Multi-utility laptops often have lower battery capacities, suggesting a trade-off between versatility and battery life.
+
 - User satisfaction isn't solely determined by price, as some lower-priced laptops have high user ratings.
+
 - Larger, heavier laptops tend to be more powerful and expensive, often catering to the gaming market.
+
 - The dominance of Intel processors suggests brand loyalty or better marketing, despite AMD's competitive offerings.
+
 - The wide range of screen sizes offered by major brands shows an effort to cater to diverse user needs.
 
 
