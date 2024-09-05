@@ -128,11 +128,11 @@ Accompanying these queries are Jupyter Notebooks that establish connections to o
 
 ## Inferences
 
-**1. Diverse Pricing Across Brands:** The laptop market offers a wide range of prices across 31 brands, with Razer, Apple, and Samsung leading the high-end segment and brands like Infinix and Chuwi catering to budget-conscious consumers.
+**1. Diverse Pricing Across Brands:** The laptop market offers a wide range of prices across **31 brands**, with **Razer, Apple, and Samsung** leading the high-end segment and brands like **Infinix and Chuwi** catering to budget-conscious consumers.
 
 **2. Price vs. Spec Score:** There is a **strong positive correlation of 0.72** between `price` and `spec score`, *indicating that higher-priced laptops tend to have better specifications.*
 
-**3. NVIDIA Graphics Premium:** Laptops with NVIDIA graphics cards are significantly more expensive, suggesting they are associated with higher-end models. Additionally, in high-rated laptops, NVIDIA graphics cards, especially the **GeForce RTX 4060**, are most common.
+**3. NVIDIA Graphics Premium:** Laptops with **NVIDIA graphics cards** are **significantly more expensive**, suggesting they are associated with higher-end models. Additionally, in high-rated laptops, NVIDIA graphics cards, especially the **GeForce RTX 4060**, are most common.
 
 **4. RAM and Price Relationship:** Higher RAM capacities correspond to higher average prices, with top-tier RAM categories *commanding prices over six times* that of the lowest RAM category. 
 
@@ -150,7 +150,7 @@ The **16 GB DDR4 RAM** is the most common memory configuration, followed by 8 GB
 
 **10. Touch Screen Functionality:** There is a **positive correlation** between `price` and the inclusion of `touch screen functionality`, with this feature becoming more common in higher-end models.
 
-**11. Laptop Screen Size and User Ratings:** Laptops with 16-inch screens and larger are the heaviest, averaging 2.20 kg. Asus offers the widest range of screen sizes, from 11.6 to 17.3 inches. Laptops with larger screens (16" and above) have the highest average user rating of 4.38.
+**11. Laptop Screen Size and User Ratings:** Laptops with **16-inch screens and larger are the heaviest**, averaging **2.20 kg**. **Asus** offers the widest range of screen sizes, from **11.6 to 17.3 inches**. Laptops with larger screens (16" and above) have the highest average user rating of 4.38.
 
 
 ## Insights
@@ -192,15 +192,15 @@ Fingerprint Sensors in Mid-Range Laptops: The higher adoption of fingerprint sen
 
 ## Recommendations
 
-1. Target Diverse Price Segments: Brands should continue to offer a wide range of prices to cater to different consumer budgets, ensuring a broad market reach.
+**1. Target Diverse Price Segments:** Brands should continue to offer a wide range of prices to cater to different consumer budgets, ensuring a broad market reach.
 
-2. Emphasize High Specs in Marketing: Given the strong correlation between price and spec score, marketing should highlight high specifications as a key selling point, especially in high-end models.
+**2. Emphasize High Specs in Marketing:** Given the strong correlation between price and spec score, marketing should highlight high specifications as a key selling point, especially in high-end models.
 
-3. Leverage Graphics Capabilities: Brands should emphasize NVIDIA graphics in their high-end models to attract consumers who prioritize gaming or graphic-intensive tasks.
+**3. Leverage Graphics Capabilities:** Brands should emphasize NVIDIA graphics in their high-end models to attract consumers who prioritize gaming or graphic-intensive tasks.
 
-4. Increase RAM Options: Offering laptops with higher RAM capacities could cater to consumers who are willing to pay more for enhanced performance, especially in mid-range and premium models.
+**4. Increase RAM Options:** Offering laptops with higher RAM capacities could cater to consumers who are willing to pay more for enhanced performance, especially in mid-range and premium models.
 
-5. Strengthen Brand Positioning: Lenovo, HP, and Asus should continue to capitalize on their dominance in various segments by reinforcing brand loyalty through targeted marketing and product differentiation.
+**5. Strengthen Brand Positioning:** Lenovo, HP, and Asus should continue to capitalize on their dominance in various segments by reinforcing brand loyalty through targeted marketing and product differentiation.
 
 6. Expand Multi-Purpose Offerings: Brands should consider developing more versatile laptops, as these are preferred by consumers and receive higher ratings.
 
@@ -232,6 +232,7 @@ For reviewers: Encourage more user reviews to provide a broader perspective, esp
 For eco-conscious consumers: Consider the trade-off between performance and weight/power consumption when choosing a laptop.
 
 Remember, these findings and recommendations are based on the current dataset. The tech market moves fast, so it's always good to keep an eye on the latest trends and updates.
+
 ## 🔄 Future Work
 
 - **Feature Engineering**: Create new features that could be used for predictive modeling.
