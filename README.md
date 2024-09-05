@@ -128,28 +128,27 @@ Accompanying these queries are Jupyter Notebooks that establish connections to o
 
 ## Inferences
 
-1. Diverse Pricing Across Brands: The laptop market offers a wide range of prices across 31 brands, with Razer, Apple, and Samsung leading the high-end segment and brands like Infinix and Chuwi catering to budget-conscious consumers.
+**1. Diverse Pricing Across Brands:** The laptop market offers a wide range of prices across 31 brands, with Razer, Apple, and Samsung leading the high-end segment and brands like Infinix and Chuwi catering to budget-conscious consumers.
 
-2. Price vs. Spec Score: There is a strong positive correlation of 0.72 between price and spec score, indicating that higher-priced laptops tend to have better specifications.
+**2. Price vs. Spec Score:** There is a strong positive correlation of 0.72 between price and spec score, indicating that higher-priced laptops tend to have better specifications.
 
-3. NVIDIA Graphics Premium: Laptops with NVIDIA graphics cards are significantly more expensive, suggesting they are associated with higher-end models. Additionally, in high-rated laptops, NVIDIA graphics cards, especially the GeForce RTX 4060, are most common.
+**3. NVIDIA Graphics Premium:** Laptops with NVIDIA graphics cards are significantly more expensive, suggesting they are associated with higher-end models. Additionally, in high-rated laptops, NVIDIA graphics cards, especially the GeForce RTX 4060, are most common.
 
-4. RAM and Price Relationship: Higher RAM capacities correspond to higher average prices, with top-tier RAM categories commanding prices over six times that of the lowest RAM category. The 16 GB DDR4 RAM is the most common memory configuration, followed by 8 GB DDR4.
+**4. RAM and Price Relationship:** Higher RAM capacities correspond to higher average prices, with top-tier RAM categories commanding prices over six times that of the lowest RAM category. The 16 GB DDR4 RAM is the most common memory configuration, followed by 8 GB DDR4.
 
-Market Segment Leaders: Lenovo, HP, and Asus dominate both the budget and mid-range segments, while HP leads in the premium segment, followed by MSI.
+**5. Market Segment Leaders:** Lenovo, HP, and Asus dominate both the budget and mid-range segments, while HP leads in the premium segment, followed by MSI.
 
-Brand Diversity: The budget segment is the most diverse, with 18 different brands, while the premium segment is dominated by a few established names.
+**6. Brand Diversity:** The budget segment is the most diverse, with 18 different brands, while the premium segment is dominated by a few established names.
 
-Utility Categories and User Ratings: Multi-purpose laptops generally receive higher user ratings compared to specialized laptops, like those focused solely on gaming or business.
+**7. Utility Categories and User Ratings:** Multi-purpose laptops generally receive higher user ratings compared to specialized laptops, like those focused solely on gaming or business.
 
-Gaming Market Share: MSI leads the gaming laptop market with a 23.58% share, followed by HP and Asus.
+**8. Gaming Market Share:** MSI leads the gaming laptop market with a 23.58% share, followed by HP and Asus.
 
-Processor Generations: Laptops from newer processor generations tend to have higher prices, but not necessarily higher user ratings, indicating that high price does not always equate to higher user satisfaction. Intel processors dominate the market with 743 laptops compared to 225 with AMD processors. Also, Core i5 processors are the most popular across all utility categories.
+**9. Processor Generations:** Laptops from newer processor generations tend to have higher prices, but not necessarily higher user ratings, indicating that high price does not always equate to higher user satisfaction. Intel processors dominate the market with 743 laptops compared to 225 with AMD processors. Also, Core i5 processors are the most popular across all utility categories.
 
+**10. Touch Screen Functionality:** There is a positive correlation between price and the inclusion of touch screen functionality, with this feature becoming more common in higher-end models.
 
-Touch Screen Functionality: There is a positive correlation between price and the inclusion of touch screen functionality, with this feature becoming more common in higher-end models.
-
-Laptop Screen Size and User Ratings: Laptops with 16-inch screens and larger are the heaviest, averaging 2.20 kg. Asus offers the widest range of screen sizes, from 11.6 to 17.3 inches. Laptops with larger screens (16" and above) have the highest average user rating of 4.38.
+**11. Laptop Screen Size and User Ratings:** Laptops with 16-inch screens and larger are the heaviest, averaging 2.20 kg. Asus offers the widest range of screen sizes, from 11.6 to 17.3 inches. Laptops with larger screens (16" and above) have the highest average user rating of 4.38.
 
 
 ## Insights
