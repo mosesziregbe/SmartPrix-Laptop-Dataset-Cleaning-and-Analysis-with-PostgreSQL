@@ -134,7 +134,9 @@ Accompanying these queries are Jupyter Notebooks that establish connections to o
 
 **3. NVIDIA Graphics Premium:** Laptops with NVIDIA graphics cards are significantly more expensive, suggesting they are associated with higher-end models. Additionally, in high-rated laptops, NVIDIA graphics cards, especially the **GeForce RTX 4060**, are most common.
 
-**4. RAM and Price Relationship:** Higher RAM capacities correspond to higher average prices, with top-tier RAM categories *commanding prices over six times* that of the lowest RAM category. The **16 GB DDR4 RAM** is the most common memory configuration, followed by 8 GB DDR4.
+**4. RAM and Price Relationship:** Higher RAM capacities correspond to higher average prices, with top-tier RAM categories *commanding prices over six times* that of the lowest RAM category. 
+
+The **16 GB DDR4 RAM** is the most common memory configuration, followed by 8 GB DDR4.
 
 **5. Market Segment Leaders:** Lenovo, HP, and Asus dominate both the budget and mid-range segments, while HP leads in the premium segment, followed by MSI.
 
@@ -173,19 +175,14 @@ Touch Screens in High-End Laptops: The increased prevalence of touch screens in 
 
 Fingerprint Sensors in Mid-Range Laptops: The higher adoption of fingerprint sensors in mid-range laptops suggests that security features are becoming more mainstream, though still premium in lower segments.
 
-### Other Market and Consumer Behavior Insights:
+### *Other Market and Consumer Behavior Insights:*
 
-The slight negative correlation between user ratings and votes might suggest that popular models attract more critical reviews.
-
-Multi-utility laptops often have lower battery capacities, suggesting a trade-off between versatility and battery life.
-
-User satisfaction isn't solely determined by price, as some lower-priced laptops have high user ratings.
-
-Larger, heavier laptops tend to be more powerful and expensive, often catering to the gaming market.
-
-The dominance of Intel processors suggests brand loyalty or better marketing, despite AMD's competitive offerings.
-
-The wide range of screen sizes offered by major brands shows an effort to cater to diverse user needs.
+- The slight negative correlation between user ratings and votes might suggest that popular models attract more critical reviews.
+- Multi-utility laptops often have lower battery capacities, suggesting a trade-off between versatility and battery life.
+- User satisfaction isn't solely determined by price, as some lower-priced laptops have high user ratings.
+- Larger, heavier laptops tend to be more powerful and expensive, often catering to the gaming market.
+- The dominance of Intel processors suggests brand loyalty or better marketing, despite AMD's competitive offerings.
+- The wide range of screen sizes offered by major brands shows an effort to cater to diverse user needs.
 
 
 ## Recommendations
