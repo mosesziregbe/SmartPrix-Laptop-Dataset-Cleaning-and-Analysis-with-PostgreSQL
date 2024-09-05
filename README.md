@@ -87,7 +87,7 @@ This project is organized into a series of SQL queries, each addressing specific
 
 Accompanying these queries are Jupyter Notebooks that establish connections to our PostgreSQL database, allowing us to execute the queries, visualize their outputs, and present comprehensive summaries, solutions and insights derived from our analysis.
 
-### *I - [Data Cleaning and Transformation - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/data_cleaning.sql)*
+### *[I - Data Cleaning and Transformation - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/data_cleaning.sql)*
 - Handling duplicates
 - Correcting structural issues
 - Standardizing text data
@@ -95,7 +95,7 @@ Accompanying these queries are Jupyter Notebooks that establish connections to o
 - Normalizing numerical values
 - Validating data integrity
 -----
-### *II - [Market and Value Analysis - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/market_value_analysis.sql)*
+### *[II - Market and Value Analysis - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/market_value_analysis.sql)*
 - Brand pricing strategies
 - Price-performance correlations
 - Market trends across price segments
@@ -104,7 +104,7 @@ Accompanying these queries are Jupyter Notebooks that establish connections to o
 
 #### *[Market and Value Analysis (Jupyter Notebook)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/Jupyter%20Notebooks/Market%20and%20Value%20Analysis.ipynb)*
 -----
-### *III - [Technical Specifications and User Experience - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/tech_specs_user_experience.sql)*
+### *[III - Technical Specifications and User Experience - (SQL Queries)](https://github.com/mosesziregbe/SmartPrix-Laptop-Dataset-Cleaning-and-Analysis-with-PostgreSQL/blob/main/SQL%20Queries/tech_specs_user_experience.sql)*
 - Performance metrics across brands
 - Hardware configurations and trends
 - Physical characteristics analysis
