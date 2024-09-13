@@ -155,25 +155,25 @@ The **16 GB DDR4 RAM** is the most common memory configuration, followed by 8 GB
 
 ## Insights
 
-Consumer Price Sensitivity: The wide range of prices across brands suggests that consumers have varied budget constraints, and brands cater to different segments of the market accordingly.
+**Consumer Price Sensitivity:** The wide range of prices across brands suggests that consumers have varied budget constraints, and brands cater to different segments of the market accordingly.
 
-Specification Influence on Pricing: The strong correlation between spec scores and prices indicates that consumers are willing to pay more for better specifications, emphasizing the importance of high specs in the pricing strategy.
+**Specification Influence on Pricing:** The strong correlation between spec scores and prices indicates that consumers are willing to pay more for better specifications, emphasizing the importance of high specs in the pricing strategy.
 
-Graphics Cards as a Selling Point: The premium pricing of NVIDIA-equipped laptops shows that graphics capabilities are a major selling point, particularly for high-end users.
+**Graphics Cards as a Selling Point:** The premium pricing of NVIDIA-equipped laptops shows that graphics capabilities are a major selling point, particularly for high-end users.
 
-RAM as a Key Pricing Factor: The significant impact of RAM on pricing suggests that consumers view RAM as a critical component in performance, which brands could leverage in their marketing. Also, the trend in RAM and storage is moving towards higher capacities, especially in newer processor generations.
+**RAM as a Key Pricing Factor:** The significant impact of RAM on pricing suggests that consumers view RAM as a critical component in performance, which brands could leverage in their marketing. Also, the trend in RAM and storage is moving towards higher capacities, especially in newer processor generations.
 
-Brand Loyalty Across Segments: Lenovo, HP, and Asus's dominance across multiple segments indicates strong brand loyalty and a broad product range that meets diverse consumer needs.
+**Brand Loyalty Across Segments:** Lenovo, HP, and Asus's dominance across multiple segments indicates strong brand loyalty and a broad product range that meets diverse consumer needs.
 
-Multi-Purpose Laptops Preferred: The higher user ratings for multi-purpose laptops indicate that versatility is valued by consumers, which could influence future product development.
+**Multi-Purpose Laptops Preferred:** The higher user ratings for multi-purpose laptops indicate that versatility is valued by consumers, which could influence future product development.
 
-MSI's Gaming Leadership: MSI's leadership in the gaming segment highlights its strong brand recognition and product focus in this niche market.
+**MSI's Gaming Leadership:** MSI's leadership in the gaming segment highlights its strong brand recognition and product focus in this niche market.
 
-Discrepancy in Price and User Ratings: The gap between high prices and lower-than-average user ratings in newer processor generations suggests potential overpricing or unmet consumer expectations.
+**Discrepancy in Price and User Ratings:** The gap between high prices and lower-than-average user ratings in newer processor generations suggests potential overpricing or unmet consumer expectations.
 
-Touch Screens in High-End Laptops: The increased prevalence of touch screens in premium models indicates that this feature is becoming a standard expectation among high-end consumers.
+**Touch Screens in High-End Laptops:** The increased prevalence of touch screens in premium models indicates that this feature is becoming a standard expectation among high-end consumers.
 
-Fingerprint Sensors in Mid-Range Laptops: The higher adoption of fingerprint sensors in mid-range laptops suggests that security features are becoming more mainstream, though still premium in lower segments.
+**Fingerprint Sensors in Mid-Range Laptops:** The higher adoption of fingerprint sensors in mid-range laptops suggests that security features are becoming more mainstream, though still premium in lower segments.
 
 #### *Other notable market and consumer behavior insights:*
 
